@@ -1,4 +1,9 @@
 # java
 
 *.class
+.idea/
+*.iml
+*.prob
+out/
 inp
+
