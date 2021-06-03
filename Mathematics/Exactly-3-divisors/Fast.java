@@ -1,3 +1,4 @@
+// https://practice.geeksforgeeks.org/problems/exactly-3-divisors/1/?track=DSASP-Mathematics&batchId=154
 // { Driver Code Starts
 //Initial Template for Java
 
