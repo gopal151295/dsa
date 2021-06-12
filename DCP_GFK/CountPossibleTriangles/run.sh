@@ -11,3 +11,4 @@ for((i = 1; ; ++i)) do
 done
 # java Fast < in > out
 echo "Done"
+
